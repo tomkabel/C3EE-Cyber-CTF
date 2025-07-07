@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/5cae576d-6bbf-459f-ba90-c82df9c6e568)
 
-
+trap
 So, picture this: The Estonian Cybercrime Unit (C3) needs a new Chief. Their ingenious recruitment method? Embed a job application within a Capture The Flag (CTF) challenge! 🕵️‍♂️ Why? Because clearly, the ultimate test of leadership is deciphering obscure references from The Hacker Manifesto in Estonian.
 
 Get ready to answer your future subordinate's burning question: "Boss, how do I decode 0:70 again?" Let's dive in!
